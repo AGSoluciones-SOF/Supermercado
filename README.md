@@ -60,9 +60,7 @@ Está pensado como una solución para supermercados, tiendas de conveniencia, mi
 
 
 ```
-Correo:
-admin@supermercado.com
-```
+
 
 
 
